@@ -1,0 +1,33 @@
+
+.it {
+    
+    color: red;
+  font-size:40px;
+     
+}
+.ant{font-size:20px;
+ padding-left:700px;
+  
+}
+h2{ font-size:25px;
+    color:blue;
+}
+h3{
+  margin-left:40px;
+  font-size:30px;
+}
+ 
+body{
+    font-size:18px;
+  color:white;
+ background-color:black;
+}
+.can{
+  background-color:LightGray;
+   margin-right:450px;
+  margin-left:500px;
+  margin-botttom:100px;
+  padding-top:10px;
+  margin-top:20px;
+  padding-left:5px;
+}
